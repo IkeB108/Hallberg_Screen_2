@@ -10,7 +10,7 @@ function setup(){
     i: null
   }
   symbolHoldingCycle = 0; //index of symbol when cycling through with J key
-  scrollAmount = 0;
+  scrollAmount = -125;
   scrollVelocity = -0.4;
   
   completeHeight = height * 1
@@ -70,9 +70,12 @@ function setup(){
   
   filesObject = {
     paperImage: "misc/paper.jpg",
-    cursor0: "misc/cursor_0000.png",
-    cursor1: "misc/cursor_0001.png",
-    cursor2: "misc/cursor_0002.png",
+    // cursor0: "misc/cursor_0000.png",
+    // cursor1: "misc/cursor_0001.png",
+    // cursor2: "misc/cursor_0002.png",
+    click_anywhere_0: "misc/click_anywhere_0000.png",
+    click_anywhere_1: "misc/click_anywhere_0001.png",
+    click_anywhere_2: "misc/click_anywhere_0002.png",
     scrollWheel0: "misc/scrollWheel0000.png",
     scrollWheel1: "misc/scrollWheel0001.png",
   }
@@ -210,18 +213,24 @@ function draw(){
     framesIdle ++;
     if( framesIdle > 70 * 6 ){
       scrolledSinceLastIdle = false;
-      for(let i in all_symbols){
-        let lod = locationOfDisplay(all_symbols[i])
-        let n = floor(frameCount/10) % 3
-        if( lod.y.isBetween(0,height*(3/4))){
-          let x = lod.x + (all_symbols[i].w/2)
-          let y = lod.y + (all_symbols[i].h/2)
-          
-          let cursorSize = width/10 * ( 1 + ( sin(frameCount/15) * 0.18 ) )
-          image(window['cursor' + n], x, y, cursorSize, cursorSize )
-          break;
-        }
-      }
+      // for(let i in all_symbols){
+      //   let lod = locationOfDisplay(all_symbols[i])
+      //   let n = floor(frameCount/10) % 3
+      //   if( lod.y.isBetween(0,height*(3/4))){
+      //     let x = lod.x + (all_symbols[i].w/2)
+      //     let y = lod.y + (all_symbols[i].h/2)
+      // 
+      //     // let cursorSize = width/10 * ( 1 + ( sin(frameCount/15) * 0.18 ) )
+      //     let cursorSize = width * 0.25
+      //     image(window['cursor' + n], x, y, cursorSize, cursorSize )
+      //     break;
+      //   }
+      // }
+      let n = floor(frameCount/10) % 3
+      let img = window["click_anywhere_" + n]
+      let w = width * 0.7
+      let h = img.height * (w/img.width)
+      image(img, (width/2) - (w/2), height * 0.8, w, h )
     }
     
     if(!scrolledSinceLastIdle && framesIdle < 70 * 6){
