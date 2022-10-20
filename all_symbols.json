@@ -1,0 +1,732 @@
+[
+  {
+    "name": "therefore",
+    "variableName": "lang_english_therefore",
+    "x": 95.5,
+    "y": 213,
+    "size_multiplier": 0.293,
+    "highlighted": true,
+    "w": 301.49699999999996,
+    "h": 63.580999999999996
+  },
+  {
+    "name": "therefore",
+    "variableName": "lang_dnd_circles_therefore",
+    "x": 267.5,
+    "y": 486,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": true,
+    "w": 46.68466666666667,
+    "h": 97.08066666666667
+  },
+  {
+    "name": "therefore",
+    "variableName": "lang_fancy_therefore",
+    "x": 96.5,
+    "y": 352,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": true,
+    "w": 254.91,
+    "h": 75.20333333333333
+  },
+  {
+    "name": "therefore",
+    "variableName": "lang_logographic_therefore",
+    "x": 302.5,
+    "y": 636,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": true,
+    "w": 56.646666666666675,
+    "h": 72.46866666666668
+  },
+  {
+    "name": "therefore",
+    "variableName": "lang_wanderer_therefore",
+    "x": 52.5,
+    "y": 577,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": true,
+    "w": 38.48066666666667,
+    "h": 62.506666666666675
+  },
+  {
+    "name": "it",
+    "variableName": "lang_english_it",
+    "x": 54.5,
+    "y": 292,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 48.638,
+    "h": 56.842
+  },
+  {
+    "name": "it",
+    "variableName": "lang_dnd_circles_it",
+    "x": 315.5,
+    "y": 492,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 43.75466666666667,
+    "h": 95.51800000000001
+  },
+  {
+    "name": "it",
+    "variableName": "lang_fancy_it",
+    "x": 31.5,
+    "y": 422,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 60.065,
+    "h": 57.623333333333335
+  },
+  {
+    "name": "it",
+    "variableName": "lang_logographic_it",
+    "x": 344.5,
+    "y": 655,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 58.99066666666668,
+    "h": 54.107333333333344
+  },
+  {
+    "name": "it",
+    "variableName": "lang_wanderer_it",
+    "x": 88.5,
+    "y": 581,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 78.71933333333334,
+    "h": 105.28466666666668
+  },
+  {
+    "name": "was",
+    "variableName": "lang_english_was",
+    "x": 141.5,
+    "y": 298,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 121.00899999999999,
+    "h": 41.899
+  },
+  {
+    "name": "was",
+    "variableName": "lang_dnd_circles_was",
+    "x": 361.5,
+    "y": 487,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 58.01400000000001,
+    "h": 107.43333333333335
+  },
+  {
+    "name": "was",
+    "variableName": "lang_fancy_was",
+    "x": 135.5,
+    "y": 437,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 91.31833333333333,
+    "h": 43.95
+  },
+  {
+    "name": "was",
+    "variableName": "lang_logographic_was",
+    "x": 392.5,
+    "y": 678,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 184.98066666666668,
+    "h": 38.09
+  },
+  {
+    "name": "was",
+    "variableName": "lang_wanderer_was",
+    "x": 172.5,
+    "y": 580,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 51.372666666666674,
+    "h": 70.12466666666667
+  },
+  {
+    "name": "called",
+    "variableName": "lang_english_called",
+    "x": 302.5,
+    "y": 285,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 177.558,
+    "h": 66.511
+  },
+  {
+    "name": "called",
+    "variableName": "lang_dnd_circles_called",
+    "x": 415.5,
+    "y": 486,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 53.13066666666667,
+    "h": 101.57333333333335
+  },
+  {
+    "name": "called",
+    "variableName": "lang_fancy_called",
+    "x": 254.5,
+    "y": 427,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 143.08166666666668,
+    "h": 50.78666666666667
+  },
+  {
+    "name": "called",
+    "variableName": "lang_logographic_called",
+    "x": 433.5,
+    "y": 641,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 121.88800000000002,
+    "h": 57.62333333333334
+  },
+  {
+    "name": "called",
+    "variableName": "lang_wanderer_called",
+    "x": 174.5,
+    "y": 650,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 40.238666666666674,
+    "h": 39.45733333333334
+  },
+  {
+    "name": "babel",
+    "variableName": "lang_english_babel",
+    "x": 402.5,
+    "y": 373,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 171.112,
+    "h": 60.943999999999996
+  },
+  {
+    "name": "babel",
+    "variableName": "lang_dnd_circles_babel",
+    "x": 481.5,
+    "y": 489,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 41.02,
+    "h": 93.76000000000002
+  },
+  {
+    "name": "babel",
+    "variableName": "lang_fancy_babel",
+    "x": 85.5,
+    "y": 503,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 136.73333333333335,
+    "h": 53.71666666666667
+  },
+  {
+    "name": "babel",
+    "variableName": "lang_logographic_babel",
+    "x": 456.5,
+    "y": 654,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 97.08066666666667,
+    "h": 42.38733333333334
+  },
+  {
+    "name": "babel",
+    "variableName": "lang_wanderer_babel",
+    "x": 219.5,
+    "y": 573,
+    "size_multiplier": 0.19533333333333336,
+    "highlighted": false,
+    "w": 77.74266666666668,
+    "h": 209.39733333333336
+  },
+  {
+    "name": "0",
+    "variableName": "number_normal_0",
+    "x": 37.5,
+    "y": 727,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 38.09,
+    "h": 60.065
+  },
+  {
+    "name": "0",
+    "variableName": "number_eye_0",
+    "x": 24.5,
+    "y": 1249,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 67.097,
+    "h": 42.192
+  },
+  {
+    "name": "0",
+    "variableName": "number_parity_0",
+    "x": 26.5,
+    "y": 911,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 58.599999999999994,
+    "h": 45.122
+  },
+  {
+    "name": "0",
+    "variableName": "number_stacks_0",
+    "x": 525.5,
+    "y": 248,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 39.262,
+    "h": 39.262
+  },
+  {
+    "name": "1",
+    "variableName": "number_normal_1",
+    "x": 110.5,
+    "y": 741,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 34.67166666666667,
+    "h": 59.08833333333333
+  },
+  {
+    "name": "1",
+    "variableName": "number_eye_1",
+    "x": 106.5,
+    "y": 1259,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 30.471999999999998,
+    "h": 22.854
+  },
+  {
+    "name": "1",
+    "variableName": "number_parity_1",
+    "x": 137.5,
+    "y": 948,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 24.319,
+    "h": 23.147
+  },
+  {
+    "name": "1",
+    "variableName": "number_stacks_1",
+    "x": 21.5,
+    "y": 1116,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 40.434,
+    "h": 38.089999999999996
+  },
+  {
+    "name": "2",
+    "variableName": "number_normal_2",
+    "x": 185.5,
+    "y": 775,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 36.13666666666667,
+    "h": 59.08833333333333
+  },
+  {
+    "name": "2",
+    "variableName": "number_eye_2",
+    "x": 169.5,
+    "y": 1259,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 28.714,
+    "h": 50.395999999999994
+  },
+  {
+    "name": "2",
+    "variableName": "number_parity_2",
+    "x": 219.5,
+    "y": 957,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 24.026,
+    "h": 29.299999999999997
+  },
+  {
+    "name": "2",
+    "variableName": "number_stacks_2",
+    "x": 67.5,
+    "y": 1122,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 52.739999999999995,
+    "h": 38.382999999999996
+  },
+  {
+    "name": "3",
+    "variableName": "number_normal_3",
+    "x": 266.5,
+    "y": 792,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 35.64833333333333,
+    "h": 60.065
+  },
+  {
+    "name": "3",
+    "variableName": "number_eye_3",
+    "x": 228.5,
+    "y": 1260,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 63.873999999999995,
+    "h": 47.759
+  },
+  {
+    "name": "3",
+    "variableName": "number_parity_3",
+    "x": 289.5,
+    "y": 954,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 28.421,
+    "h": 32.23
+  },
+  {
+    "name": "3",
+    "variableName": "number_stacks_3",
+    "x": 117.5,
+    "y": 1116,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 56.842,
+    "h": 40.727
+  },
+  {
+    "name": "4",
+    "variableName": "number_normal_4",
+    "x": 329.5,
+    "y": 764,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 42.485,
+    "h": 58.6
+  },
+  {
+    "name": "4",
+    "variableName": "number_eye_4",
+    "x": 322.5,
+    "y": 1262,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 67.097,
+    "h": 42.192
+  },
+  {
+    "name": "4",
+    "variableName": "number_parity_4",
+    "x": 349.5,
+    "y": 925,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 85.556,
+    "h": 73.25
+  },
+  {
+    "name": "4",
+    "variableName": "number_stacks_4",
+    "x": 178.5,
+    "y": 1126,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 86.728,
+    "h": 36.918
+  },
+  {
+    "name": "5",
+    "variableName": "number_normal_5",
+    "x": 402.5,
+    "y": 752,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 36.13666666666667,
+    "h": 62.01833333333333
+  },
+  {
+    "name": "5",
+    "variableName": "number_eye_5",
+    "x": 420.5,
+    "y": 1263,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 50.982,
+    "h": 67.097
+  },
+  {
+    "name": "5",
+    "variableName": "number_parity_5",
+    "x": 457.5,
+    "y": 932,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 82.62599999999999,
+    "h": 69.148
+  },
+  {
+    "name": "5",
+    "variableName": "number_stacks_5",
+    "x": 271.5,
+    "y": 1138,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 55.669999999999995,
+    "h": 22.854
+  },
+  {
+    "name": "6",
+    "variableName": "number_normal_6",
+    "x": 471.5,
+    "y": 743,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 39.06666666666667,
+    "h": 60.065
+  },
+  {
+    "name": "6",
+    "variableName": "number_eye_6",
+    "x": 506.5,
+    "y": 1262,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 45.708,
+    "h": 86.43499999999999
+  },
+  {
+    "name": "6",
+    "variableName": "number_parity_6",
+    "x": 16.5,
+    "y": 1011,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 74.422,
+    "h": 60.943999999999996
+  },
+  {
+    "name": "6",
+    "variableName": "number_stacks_6",
+    "x": 334.5,
+    "y": 1133,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 63.873999999999995,
+    "h": 31.644
+  },
+  {
+    "name": "10",
+    "variableName": "number_normal_10",
+    "x": 6.5,
+    "y": 803,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 87.41166666666666,
+    "h": 70.32000000000001
+  },
+  {
+    "name": "10",
+    "variableName": "number_eye_10",
+    "x": 19.5,
+    "y": 1319,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 133.022,
+    "h": 122.47399999999999
+  },
+  {
+    "name": "10",
+    "variableName": "number_parity_10",
+    "x": 111.5,
+    "y": 1012,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 58.599999999999994,
+    "h": 61.236999999999995
+  },
+  {
+    "name": "10",
+    "variableName": "number_stacks_10",
+    "x": 407.5,
+    "y": 1127,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 70.613,
+    "h": 40.727
+  },
+  {
+    "name": "15",
+    "variableName": "number_normal_15",
+    "x": 111.5,
+    "y": 850,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 82.04,
+    "h": 63.483333333333334
+  },
+  {
+    "name": "15",
+    "variableName": "number_eye_15",
+    "x": 169.5,
+    "y": 1339,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 146.207,
+    "h": 107.53099999999999
+  },
+  {
+    "name": "15",
+    "variableName": "number_parity_15",
+    "x": 205.5,
+    "y": 1010,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 80.57499999999999,
+    "h": 84.67699999999999
+  },
+  {
+    "name": "15",
+    "variableName": "number_stacks_15",
+    "x": 480.5,
+    "y": 1124,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 75.301,
+    "h": 61.82299999999999
+  },
+  {
+    "name": "16",
+    "variableName": "number_normal_16",
+    "x": 205.5,
+    "y": 873,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 95.22500000000001,
+    "h": 71.29666666666667
+  },
+  {
+    "name": "16",
+    "variableName": "number_eye_16",
+    "x": 347.5,
+    "y": 1342,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 150.89499999999998,
+    "h": 105.187
+  },
+  {
+    "name": "16",
+    "variableName": "number_parity_16",
+    "x": 320.5,
+    "y": 1016,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 70.90599999999999,
+    "h": 82.62599999999999
+  },
+  {
+    "name": "16",
+    "variableName": "number_stacks_16",
+    "x": 25.5,
+    "y": 1169,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 67.976,
+    "h": 58.013999999999996
+  },
+  {
+    "name": "20",
+    "variableName": "number_normal_20",
+    "x": 308.5,
+    "y": 857,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 101.08500000000001,
+    "h": 69.34333333333333
+  },
+  {
+    "name": "20",
+    "variableName": "number_eye_20",
+    "x": 56.5,
+    "y": 1455,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 159.392,
+    "h": 122.767
+  },
+  {
+    "name": "20",
+    "variableName": "number_parity_20",
+    "x": 405.5,
+    "y": 1026,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 67.976,
+    "h": 77.645
+  },
+  {
+    "name": "20",
+    "variableName": "number_stacks_20",
+    "x": 97.5,
+    "y": 1173,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 72.664,
+    "h": 59.479
+  },
+  {
+    "name": "100",
+    "variableName": "number_normal_100",
+    "x": 430.5,
+    "y": 848,
+    "size_multiplier": 0.48833333333333334,
+    "highlighted": false,
+    "w": 122.57166666666667,
+    "h": 64.94833333333334
+  },
+  {
+    "name": "100",
+    "variableName": "number_eye_100",
+    "x": 225.5,
+    "y": 1457,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 226.78199999999998,
+    "h": 133.608
+  },
+  {
+    "name": "100",
+    "variableName": "number_parity_100",
+    "x": 486.5,
+    "y": 1017,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 67.39,
+    "h": 92.588
+  },
+  {
+    "name": "100",
+    "variableName": "number_stacks_100",
+    "x": 174.5,
+    "y": 1186,
+    "size_multiplier": 0.293,
+    "highlighted": false,
+    "w": 91.12299999999999,
+    "h": 37.504
+  }
+]
