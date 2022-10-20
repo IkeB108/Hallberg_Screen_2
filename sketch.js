@@ -309,6 +309,10 @@ function cursorPressEnd(){
   }
 }
 
+function cursorClick(b){
+  if(b == "middle")location.reload()
+}
+
 function mouseWheel(e){
   framesIdle = 0;
   scrolledSinceLastIdle = true;
