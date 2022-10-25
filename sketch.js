@@ -321,6 +321,14 @@ function mouseWheel(e){
   if(e.delta > 0)scrollAmount -= scrollIncrement;
 }
 
+function windowResized(){
+  if(typeof willRefresh == "undefined"){
+    setTimeout( ()=> { location.reload(); }, 3000 )
+    console.log("Will refresh...")
+    willRefresh = true; 
+  }
+}
+
 // function keyTyped(){
 //   if(key==" ")devMode = !devMode;
 //   if(key == 'j' && devMode){
